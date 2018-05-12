@@ -28,6 +28,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3957
     wikipedia: http://en.wikipedia.org/wiki/Russell_Doubleday
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39850#Cattle-Ranch-to-CollegeThe-True-Tales-of-A-Boy-s-Adventures-in-the-Far-West
 gutenberg_issued: '2012-05-29'
 gutenberg_type: Text
 identifiers:
