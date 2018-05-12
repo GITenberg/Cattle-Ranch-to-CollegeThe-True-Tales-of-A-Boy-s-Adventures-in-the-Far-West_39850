@@ -1,0 +1,53 @@
+_repo: Cattle-Ranch-to-CollegeThe-True-Tales-of-A-Boy-s-Adventures-in-the-Far-West_39850
+_version: 0.1.0
+contributor:
+  illustrators:
+  - agent_name: Seton, Ernest Thompson
+    aliases:
+    - Thompson-Seton, Ernest
+    - Seton, Wolf
+    - Seton-Thomson, Ernest
+    - Seton-Thompson, Ernest
+    birthdate: 1860
+    deathdate: 1946
+    gutenberg_agent_id: '535'
+    url: http://www.gutenberg.org/2009/agents/535
+    wikipedia: http://en.wikipedia.org/wiki/Ernest_Thompson_Seton
+  - agent_name: MacDonald, Janet
+    gutenberg_agent_id: '44870'
+    url: http://www.gutenberg.org/2009/agents/44870
+covers:
+- cover_type: archival
+  image_path: 39850-h/images/cover2.jpg
+creator:
+  author:
+    agent_name: Doubleday, Russell
+    birthdate: 1872
+    deathdate: 1949
+    gutenberg_agent_id: '3957'
+    url: http://www.gutenberg.org/2009/agents/3957
+    wikipedia: http://en.wikipedia.org/wiki/Russell_Doubleday
+description: ''
+gutenberg_issued: '2012-05-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39850'
+  lccn: '99004905'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Indians of North America -- Juvenile fiction'
+- !lcsh 'Cowboys -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Hunting -- Juvenile fiction'
+- !lcsh 'Parent and child -- Juvenile fiction'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Cattle -- Juvenile fiction'
+- !lcsh 'Youth -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Outdoor life -- Juvenile fiction'
+title: 'Cattle-Ranch to College
+
+  The True Tales of A Boy''s Adventures in the Far West'
+url: http://www.gutenberg.org/ebooks/39850
